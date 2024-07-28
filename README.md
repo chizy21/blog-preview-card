@@ -19,7 +19,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ## Links
 
 - Solution URL: [Add solution URL here](https://github.com/chizy21/blog-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://gleeful-scone-e24abf.netlify.app/)
 
 ## My process
 
